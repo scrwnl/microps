@@ -1,3 +1,5 @@
+CC=gcc
+
 APPS = 
 
 DRIVERS = 
